@@ -2,7 +2,7 @@
 ![Last Commit Date](https://img.shields.io/github/last-commit/fkoulen/blurz)
 ![License](	https://img.shields.io/github/license/fkoulen/blurz)
 
-Blurz is a Rainmeter skin that is inspired by [Eldog02's Proximity skin](https://eldogrm.github.io/skins/proximity.html).
+Blurz is a Rainmeter skin suite that is inspired by [Eldog02's Proximity skin](https://eldogrm.github.io/skins/proximity.html).
 
 ## Installation
 
