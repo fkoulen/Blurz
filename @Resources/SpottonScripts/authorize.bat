@@ -1,0 +1,1 @@
+start "" https://spottons-auth.herokuapp.com/auth
