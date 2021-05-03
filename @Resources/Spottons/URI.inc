@@ -1,0 +1,2 @@
+[Variables]
+Spotton1=
